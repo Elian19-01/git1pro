@@ -1,8 +1,0 @@
-# The git / github with examples
- git config --global "Elian Vega"
- 
- git config --global 2009142@upy.edu.mx
-
- git init
-
- git clone Elian19-01:/path/to/repository
