@@ -1,28 +1,33 @@
 # Commands
- mkdir... create a directory
-<<<<<<< HEAD
+ create a directory
+ ```shell
+ mkdir
+ ```
+ delete a directoty
+  ```shell
+ rmdir
+  ```
+ navegate
+  ```shell
+  cd
+  ```
 
- rmdir... delete a directoty
+ comparete the changes
+  ```shell
+ git diff
+  ```
 
- cd... navegate
+ find files, folders and inside files
+  ```shell
+  find
+   ```
 
- git diff... comparete the changes
+ create and edit text files
+ ```shell
+ nano
+ ``` 
 
- find... find files, folders and inside files
-
- nano... create and edit text files
-
-=======
- 
- rmdir... delete a directoty
- 
- cd... navegate
- 
- git diff... comparete the changes
- 
- find... find files, folders and inside files
- 
- nano... create and edit text files
- 
->>>>>>> 9b81a5d05b1f088bd6e4c1c05bf75fdfdad56d2a
- git status... get the state of the computer
+ get the state of the computer
+ ```shell
+ git status
+ ```
