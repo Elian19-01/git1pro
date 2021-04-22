@@ -59,6 +59,5 @@ To reate a function branch
   ```
 ## References
  
-  ```shell
  [texto del enlace](url ejemplo https://www.hostinger.es/tutoriales/comandos-de-git)
-```
+
