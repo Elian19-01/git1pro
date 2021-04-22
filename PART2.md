@@ -1,6 +1,7 @@
 # The git / github with examples:
 
 ## initial configuration
+
   ```shell
   git config --global user.name "Elian Vega"
   ```
@@ -23,31 +24,41 @@
   git commit -m "testcommit"
   ```
 ## to push to a remote repository
+
+ It will uploand the commits to a remote repository
  ```shell 
  git push -u origin main
   ```
 
+
 ## Branches
 
- to create
+ to create a branch
   ```shell
   git checkout -b testbranch
   ``` 
- to delete
+ to delete a branch
   ```shell
   git checkout -d secondbranch
   ``` 
- to combine
+ to combine a branch with the current branch
   ```shell
   git merge testbranch
   ```
 
 ## git flow
 
+To execute workflow on git flow.
   ```shell
   git flow init
   ```
 
+To reate a function branch
   ```shell
   git flow feature start feature_branch    
   ```
+## References
+ 
+  ```shell
+ [texto del enlace](url ejemplo https://www.hostinger.es/tutoriales/comandos-de-git)
+```
