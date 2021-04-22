@@ -59,5 +59,9 @@ To reate a function branch
   ```
 ## References
  
- [https://www.hostinger.es/tutoriales/comandos-de-git]
-
+```shell
+ https://www.hostinger.es/tutoriales/comandos-de-git
+ ```
+```shell
+https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+```
